@@ -1,0 +1,2 @@
+
+# menggunakan operator pengurangan 

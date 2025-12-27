@@ -1,0 +1,26 @@
+[
+    {
+        "judul": "kita",
+        "penulis": "ramdna, putri",
+        "tahun": 2024,
+        "stok": 2
+    },
+    {
+        "judul": "kita2",
+        "penulis": "ramdan, putri",
+        "tahun": 2025,
+        "stok": 6
+    },
+    {
+        "judul": "ikan",
+        "penulis": "putri",
+        "tahun": 2025,
+        "stok": 3
+    },
+    {
+        "judul": "kuingat",
+        "penulis": "putri",
+        "tahun": 2024,
+        "stok": 3
+    }
+]

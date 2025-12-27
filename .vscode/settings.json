@@ -1,0 +1,11 @@
+{
+    "github.copilot.advanced": {
+
+    },
+    "C_Cpp.copilotHover": "default",
+    "github.copilot.renameSuggestions.triggerAutomatically": true,
+    "python.analysis.aiCodeActions": {
+
+    },
+    "github.copilot.chat.followUps": "never"
+}

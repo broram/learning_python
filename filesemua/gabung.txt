@@ -1,0 +1,8 @@
+nama : ikan
+nilai : 98
+nama : kila
+nilai : 43
+nama : okelah
+nilai : 67
+
+okelah brok
