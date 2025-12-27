@@ -23,17 +23,17 @@ class Kelas:
     def tampilan_daftar(self):
         for m in self.__daftar_mahasiswa:
             # memanggil method get_name dari objek m
-            print (m.get.name())
+            print (m.get_name())
             
             
             
 if __name__ == "__main__":
-    k = kelas(3) # membuat kapasitas
+    k = Kelas(3) # membuat kapasitas
     
     k.tambah_mahasiswa(Mahasiswa("ali"))
     k.tambah_mahasiswa(Mahasiswa("ramdan"))
     
-    k.tampilan.daftar()
+    k.tampilan_daftar()
     
             
         
